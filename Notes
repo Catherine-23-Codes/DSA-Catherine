@@ -17,3 +17,10 @@ Recursion key characteristics:
 1. performing same operation multiple times with different inputs
 2.in every step we try smaller ip to make problem smaller
 3.BASE CASE is needed to stop the recursion otherwise infinte loop occurs.
+
+
+
+
+LOGIC Recursion
+1.A method calls itself
+2.exit from infinte loop
