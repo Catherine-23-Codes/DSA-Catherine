@@ -1,0 +1,26 @@
+Recursion deals with:
+    1.Iteration
+    2.Function
+    
+Recursion is a method of solving compuutational problem where the
+solution depends on solutions to smaller instances of the same problem.
+                        OR
+
+Recursion- way of solving a problem by having a function calling itself
+
+Steps:
+1.define BASE CASE
+2.execute the desired function/work
+3.call back the function
+
+Recursion key characteristics:
+1. performing same operation multiple times with different inputs
+2.in every step we try smaller ip to make problem smaller
+3.BASE CASE is needed to stop the recursion otherwise infinte loop occurs.
+
+
+
+
+LOGIC Recursion
+1.A method calls itself
+2.exit from infinte loop
