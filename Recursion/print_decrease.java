@@ -7,7 +7,7 @@ public class print_decrease {
             System.out.println(n);
             return;
         }
-        System.out.print(n+" ");
+        System.out.print(n+" "); //main difference
         printDec(n-1);
     }
 
