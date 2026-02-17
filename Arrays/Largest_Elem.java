@@ -6,7 +6,7 @@ import java.util.*;
 public class Largest_Elem{
     public static int largestElement(int[]arr){
         Arrays.sort(arr);
-        return arr[arr.length-1];
+        return arr[arr.length-1]; //using value as Index
     }
     public static void main(String args[]){
         int[]arr={1,7,2,5,3,9,16,2,4};
