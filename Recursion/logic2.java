@@ -1,4 +1,4 @@
-package Recursion;
+
 
 public class logic2 {
     public static void recursiveMethod(int n){

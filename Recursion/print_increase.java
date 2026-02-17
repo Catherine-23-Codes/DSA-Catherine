@@ -1,5 +1,5 @@
 //Print numbers from 1 to n in increasing order
-package Recursion;
+
 
 public class print_increase {
     public static void printIncreaseOrder(int n){

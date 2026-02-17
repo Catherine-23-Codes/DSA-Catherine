@@ -1,5 +1,5 @@
 //Print all numbers from n to 1 in decreasing order
-package Recursion;
+
 
 public class print_decrease {
     public static void printDec(int n){ 
